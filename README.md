@@ -12,7 +12,7 @@ The scenario is deliberately built to carry realistic complexity, including advi
 
 ## Why this exists
 
-Most job postings for Product Owner/Manager/Delivery roles now mention AI fluency, but they aren't looking for AI engineers. They're looking for people who can identify where AI genuinely helps in product delivery work, direct it effectively, and know when to override it with real judgment. This toolkit is my evidence of that. It goes beyond "I used ChatGPT/Claude" to a documented, repeatable method with visible reasoning at every step.
+Most job postings for Product Owner/Manager/Delivery roles now mention AI fluency, but they aren't looking for AI engineers. They're looking for people who can identify where AI actually helps in product delivery work, direct it effectively, and know when to override it with real judgment. This toolkit is my evidence of that. It goes beyond "I used ChatGPT/Claude" to a documented, repeatable method with visible reasoning at every step.
 
 ## The JOR AI Product Delivery Framework
 
